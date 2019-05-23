@@ -1,0 +1,74 @@
+body {
+    margin: 20px;
+}
+#intro{
+    border: dotted;
+    border-color: #C90B0B;
+    
+}
+#name{
+    font-size: 350%;
+    color: #C90B0B;
+    font-family: 'Great Vibes', cursive;
+    background: #DFE0DF;
+}
+.content{
+    font-family: 'Charm', cursive;
+}
+#tagLine{
+    text-align: center;
+    font-size: 220%;
+    color: #C90B0B;
+}
+#topMenu{
+    color: #05960A;
+    font-size: 120%;
+}
+.guide{
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+.guide:hover{
+    background-color: #DFE0DF;
+    font-size: 140%;
+}
+.pizzaPic{
+    float: right;
+    width: 200px;
+}
+.sectionTitle{
+    font-size: 220%;
+    color: #C90B0B;
+}
+#special{
+    font-size: 150%;
+    color: #05960A;
+    font-weight: bolder;
+}
+.pizza p{
+    margin: 0px;
+}
+.pizzaName{
+    font-size: 150%;
+    color: #05960A;
+    font-weight: bolder;
+    border-top: solid;
+    border-color: #DFE0DF;
+}
+.description{
+    font-size: 120%;
+}
+.price{
+    color: #C90B0B;
+    padding-bottom: 20px;
+}
+#deal{
+    font-size: 120%;
+}
+#addy{
+    font-size: 120%;
+}
+footer{
+    background-color: #C90B0B;
+}
